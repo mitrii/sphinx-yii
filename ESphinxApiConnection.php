@@ -1,5 +1,7 @@
 <?php
 
+Yii::import('vendor.sergebezborodov.sphinx-yii.SphinxClient');
+
 /**
  * Standart connection to sphinx daemon
  *
